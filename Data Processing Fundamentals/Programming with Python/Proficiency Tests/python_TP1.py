@@ -113,6 +113,7 @@ dias_parada = periodicidade - dia_atual
 print(dia_atual)
 print(dias_parada)
 
+
 #==Exercício 13 - Engenharia Reversa de Tributação e Logística
 #Defina os valores para custo base (2500), alíquota (0.05) e suporte (150). Calcule, em apenas uma 
 #linha utilizando parênteses, o valor final que o cliente deverá pagar, garantindo que a ordem das 
@@ -123,12 +124,14 @@ suporte = 150
 valor_final = (custo_base * aliquota) + custo_base + suporte
 print(valor_final)
 
+
 #==Exercício 14 - Auditoria de Desempenho e Eficiência de Ativos
 #Crie um sistema que receba o registro de 345 minutos e realize a transformação para a grandeza de horas decimais. 
 #O resultado deve refletir a fração exata do tempo de uso para que o custo por hora seja aplicado posteriormente. 
 #Exiba o valor convertido.
 minutos = 345
 print(minutos / 60)
+
 
 #==Exercício 15 - Telemetria Aeroespacial e Autonomia de Voo==
 #A partir do tempo de ambos os voos, desenvolva o raciocínio lógico para converter o total integralmente para 
@@ -153,6 +156,7 @@ energia_total = energia_gasta * 1.15
 
 print("Tempo total em segundos:", tempo_total_segundos)
 print("Energia total:", energia_total)
+
 
 #==Exercício 16 Decomposição de Jornada para Fechamento de Folha==
 #A partir do total de 1527 minutos, calcule a quantidade de horas inteiras trabalhadas 
