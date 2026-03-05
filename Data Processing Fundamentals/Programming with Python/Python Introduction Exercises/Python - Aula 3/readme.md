@@ -1,4 +1,5 @@
-# String Manipulation and Text Processing - Date: 05/03/2026
+# String Manipulation and Text Processing
+**Date:** 05/03/2026
 
 ### Topics Covered
 
