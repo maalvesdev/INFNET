@@ -1,5 +1,4 @@
-## Python Fundamentals
-**Date:** 2026-02-26
+## **Date:** 2026-02-26
 
 ### Topics Covered
 
