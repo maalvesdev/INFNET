@@ -1,4 +1,4 @@
-## Date: 26/02/2026
+## Python Basics: Variables, Arithmetic and String Slicing - Date: 26/02/2026
 
 ### Topics Covered
 
@@ -19,3 +19,4 @@ This exercise demonstrates how to convert a number of minutes into hours and rem
 ```python
 time = 130
 print("Hours:", time//60, "Minutes:", time%60)
+```
