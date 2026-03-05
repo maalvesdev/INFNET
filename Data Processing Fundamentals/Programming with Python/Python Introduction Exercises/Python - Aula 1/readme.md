@@ -20,3 +20,10 @@ This exercise demonstrates how to convert a number of minutes into hours and rem
 time = 130
 print("Hours:", time//60, "Minutes:", time%60)
 ```
+### Example: Converting Celsius to Fahrenheits
+
+```python
+celsius = float(input("Digite a temperatura em Celsius: "))
+fahrenheit = (celsius*9/5) + 32
+print(fahrenheit)
+```
