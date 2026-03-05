@@ -1,24 +1,21 @@
-## Date: 2026/02/26
+## 26/02/2026
 
 ### Topics Covered
 
 - Basic Python syntax
-- Variables and numeric operations
+- Variables and arithmetic operations
 - Integer division and modulo (`//`, `%`)
 - String slicing
 - String concatenation
-- Basic arithmetic calculations
-- User input using `input()`
+- User input with `input()`
 - Type conversion with `float()`
 
-### Concepts Practiced
+---
 
-- Converting minutes into hours and minutes using division and modulo
-- Calculating averages using arithmetic operators
-- Extracting parts of strings using slicing
-- Combining strings to create formatted output
-- Simulating text censorship using string slicing
-- Interleaving characters from two strings
-- Checking if a number is even using the modulo operator
-- Calculating Body Mass Index (BMI)
-- Converting temperature from Celsius to Fahrenheit
+### Example: Converting Minutes into Hours and Minutes
+
+This exercise demonstrates how to convert a number of minutes into hours and remaining minutes using integer division and modulo.
+
+```python
+time = 130
+print("Hours:", time//60, "Minutes:", time%60)
