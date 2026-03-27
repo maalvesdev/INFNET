@@ -5,18 +5,16 @@
 ## 📋 Performance Tests
 
 **PT1 — Fundamentals**
-- Comentários e boas práticas de documentação
-- Variáveis e atribuição
-- Tipos básicos: int, float, bool, string
-- Operações aritméticas: soma, subtração, multiplicação, divisão
-- Fluxo IPO (Entrada, Processamento, Saída)
-- Operador módulo e divisão inteira
+- Comments and good documentation practices
+- Variables and atribuition
+- Basic Data Types: `int`, `float`, `bool`, `string`
+- Arithmetic Operations: Sum, Sub, Multiplication, Division
+- IPO-Mode
 
-**TP2 — Strings e Interatividade**
-- Strings multilinha com triple quotes
+**PT2 — Strings and Interactivity**
 - Concatenação e repetição de strings
-- Métodos: upper(), lower(), capitalize(), swapcase(), count(), len()
+- String Methods: `.upper()`, `.lower()`, `.capitalize()`, `.swapcase()`, `.count()`, `.len()`
 - Operador `in` para verificação de caracteres
-- Entrada de dados com input()
-- Formatação com f-strings e .format()
-- Estrutura de repetição com for
+- Entrada de dados com `input()`
+- String Formatting with F-String `.format()`
+- Repetition structure with `for`
