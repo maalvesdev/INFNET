@@ -1,6 +1,6 @@
 # 🎓 Software Engineer — Instituto Infnet (2026–2030)
 
-Repository with projects and activities done during my **Software Engineer** degree at Instituto Infnet (2026-2030)
+Repository with projects and activities done during my **Software Engineer** degree at Instituto Infnet
 
 ## 📅 Semester Guide
 
