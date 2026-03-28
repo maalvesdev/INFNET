@@ -2,9 +2,9 @@
 
 Repository with projects and activities developed during my **Software Engineering** degree at Instituto Infnet
 
-## 📅 Semester Guide
-
 ---
+
+## 📅 Semester Guide
 
 ### Semester 01 - Data Processing Fundamentals
 - `Programming with Python/` → Programming Introduction with Python
