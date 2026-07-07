@@ -4,7 +4,7 @@ Este repositório contém a resolução integral do Assessment da disciplina de 
 
 ---
 
-## 🛠️ Tecnologias e Conceitos Aplicados
+## Tecnologias e Conceitos Aplicados
 
 * **Linguagem:** Python
 * **Bibliotecas Embutidas:** `math`, `random`
