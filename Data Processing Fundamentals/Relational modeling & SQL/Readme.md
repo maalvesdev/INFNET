@@ -1,4 +1,4 @@
-# Projeto Acadêmico: Consultas SQL e Modelagem de Dados
+# Assessmento Final de SQL: Consultas SQL e Modelagem de Dados
 
 Este repositório contém a resolução integral do Assessment da disciplina de Banco de Dados (Engenharia de Software - Instituto Infnet). O projeto foi desenvolvido inteiramente em um ambiente de notebook interativo (**Deepnote**), utilizando blocos nativos de SQL para demonstrar proficiência em consultas complexas e arquitetura de dados.
 
