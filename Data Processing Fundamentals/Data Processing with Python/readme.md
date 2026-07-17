@@ -1,4 +1,4 @@
-# Assessmento final de Python para Processamento de Dados
+# Assessment final de Python para Processamento de Dados
 
 Este repositório contém a resolução do Assessment da disciplina de Python para Processamento de Dados (Engenharia de Software - Instituto Infnet). O projeto demonstra desde o domínio de estruturas de dados nativas e lógica de programação até o desenvolvimento de serviços web e consumo de APIs externas de Inteligência Artificial.
 
